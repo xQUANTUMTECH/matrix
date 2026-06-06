@@ -6,6 +6,8 @@
 
 A project by **X Quantum Tech**.
 
+> 🗓️ Built in **March 2026**. Open-sourced June 2026.
+
 ---
 
 ## The idea
