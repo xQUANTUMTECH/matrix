@@ -1,0 +1,2972 @@
+[
+  {
+    "numeric_id": "0",
+    "display_name": "Air",
+    "minecraft_id": "minecraft:air"
+  },
+  {
+    "numeric_id": "1",
+    "display_name": "Stone",
+    "minecraft_id": "minecraft:stone"
+  },
+  {
+    "numeric_id": "1:1",
+    "display_name": "Granite",
+    "minecraft_id": "minecraft:stone"
+  },
+  {
+    "numeric_id": "1:2",
+    "display_name": "Polished Granite",
+    "minecraft_id": "minecraft:stone"
+  },
+  {
+    "numeric_id": "1:3",
+    "display_name": "Diorite",
+    "minecraft_id": "minecraft:stone"
+  },
+  {
+    "numeric_id": "1:4",
+    "display_name": "Polished Diorite",
+    "minecraft_id": "minecraft:stone"
+  },
+  {
+    "numeric_id": "1:5",
+    "display_name": "Andesite",
+    "minecraft_id": "minecraft:stone"
+  },
+  {
+    "numeric_id": "1:6",
+    "display_name": "Polished Andesite",
+    "minecraft_id": "minecraft:stone"
+  },
+  {
+    "numeric_id": "2",
+    "display_name": "Grass",
+    "minecraft_id": "minecraft:grass"
+  },
+  {
+    "numeric_id": "3",
+    "display_name": "Dirt",
+    "minecraft_id": "minecraft:dirt"
+  },
+  {
+    "numeric_id": "3:1",
+    "display_name": "Coarse Dirt",
+    "minecraft_id": "minecraft:dirt"
+  },
+  {
+    "numeric_id": "3:2",
+    "display_name": "Podzol",
+    "minecraft_id": "minecraft:dirt"
+  },
+  {
+    "numeric_id": "4",
+    "display_name": "Cobblestone",
+    "minecraft_id": "minecraft:cobblestone"
+  },
+  {
+    "numeric_id": "5",
+    "display_name": "Oak Wood Plank",
+    "minecraft_id": "minecraft:planks"
+  },
+  {
+    "numeric_id": "5:1",
+    "display_name": "Spruce Wood Plank",
+    "minecraft_id": "minecraft:planks"
+  },
+  {
+    "numeric_id": "5:2",
+    "display_name": "Birch Wood Plank",
+    "minecraft_id": "minecraft:planks"
+  },
+  {
+    "numeric_id": "5:3",
+    "display_name": "Jungle Wood Plank",
+    "minecraft_id": "minecraft:planks"
+  },
+  {
+    "numeric_id": "5:4",
+    "display_name": "Acacia Wood Plank",
+    "minecraft_id": "minecraft:planks"
+  },
+  {
+    "numeric_id": "5:5",
+    "display_name": "Dark Oak Wood Plank",
+    "minecraft_id": "minecraft:planks"
+  },
+  {
+    "numeric_id": "6",
+    "display_name": "Oak Sapling",
+    "minecraft_id": "minecraft:sapling"
+  },
+  {
+    "numeric_id": "6:1",
+    "display_name": "Spruce Sapling",
+    "minecraft_id": "minecraft:sapling"
+  },
+  {
+    "numeric_id": "6:2",
+    "display_name": "Birch Sapling",
+    "minecraft_id": "minecraft:sapling"
+  },
+  {
+    "numeric_id": "6:3",
+    "display_name": "Jungle Sapling",
+    "minecraft_id": "minecraft:sapling"
+  },
+  {
+    "numeric_id": "6:4",
+    "display_name": "Acacia Sapling",
+    "minecraft_id": "minecraft:sapling"
+  },
+  {
+    "numeric_id": "6:5",
+    "display_name": "Dark Oak Sapling",
+    "minecraft_id": "minecraft:sapling"
+  },
+  {
+    "numeric_id": "7",
+    "display_name": "Bedrock",
+    "minecraft_id": "minecraft:bedrock"
+  },
+  {
+    "numeric_id": "8",
+    "display_name": "Flowing Water",
+    "minecraft_id": "minecraft:flowing_water"
+  },
+  {
+    "numeric_id": "9",
+    "display_name": "Still Water",
+    "minecraft_id": "minecraft:water"
+  },
+  {
+    "numeric_id": "10",
+    "display_name": "Flowing Lava",
+    "minecraft_id": "minecraft:flowing_lava"
+  },
+  {
+    "numeric_id": "11",
+    "display_name": "Still Lava",
+    "minecraft_id": "minecraft:lava"
+  },
+  {
+    "numeric_id": "12",
+    "display_name": "Sand",
+    "minecraft_id": "minecraft:sand"
+  },
+  {
+    "numeric_id": "12:1",
+    "display_name": "Red Sand",
+    "minecraft_id": "minecraft:sand"
+  },
+  {
+    "numeric_id": "13",
+    "display_name": "Gravel",
+    "minecraft_id": "minecraft:gravel"
+  },
+  {
+    "numeric_id": "14",
+    "display_name": "Gold Ore",
+    "minecraft_id": "minecraft:gold_ore"
+  },
+  {
+    "numeric_id": "15",
+    "display_name": "Iron Ore",
+    "minecraft_id": "minecraft:iron_ore"
+  },
+  {
+    "numeric_id": "16",
+    "display_name": "Coal Ore",
+    "minecraft_id": "minecraft:coal_ore"
+  },
+  {
+    "numeric_id": "17",
+    "display_name": "Oak Wood",
+    "minecraft_id": "minecraft:log"
+  },
+  {
+    "numeric_id": "17:1",
+    "display_name": "Spruce Wood",
+    "minecraft_id": "minecraft:log"
+  },
+  {
+    "numeric_id": "17:2",
+    "display_name": "Birch Wood",
+    "minecraft_id": "minecraft:log"
+  },
+  {
+    "numeric_id": "17:3",
+    "display_name": "Jungle Wood",
+    "minecraft_id": "minecraft:log"
+  },
+  {
+    "numeric_id": "18",
+    "display_name": "Oak Leaves",
+    "minecraft_id": "minecraft:leaves"
+  },
+  {
+    "numeric_id": "18:1",
+    "display_name": "Spruce Leaves",
+    "minecraft_id": "minecraft:leaves"
+  },
+  {
+    "numeric_id": "18:2",
+    "display_name": "Birch Leaves",
+    "minecraft_id": "minecraft:leaves"
+  },
+  {
+    "numeric_id": "18:3",
+    "display_name": "Jungle Leaves",
+    "minecraft_id": "minecraft:leaves"
+  },
+  {
+    "numeric_id": "19",
+    "display_name": "Sponge",
+    "minecraft_id": "minecraft:sponge"
+  },
+  {
+    "numeric_id": "19:1",
+    "display_name": "Wet Sponge",
+    "minecraft_id": "minecraft:sponge"
+  },
+  {
+    "numeric_id": "20",
+    "display_name": "Glass",
+    "minecraft_id": "minecraft:glass"
+  },
+  {
+    "numeric_id": "21",
+    "display_name": "Lapis Lazuli Ore",
+    "minecraft_id": "minecraft:lapis_ore"
+  },
+  {
+    "numeric_id": "22",
+    "display_name": "Lapis Lazuli Block",
+    "minecraft_id": "minecraft:lapis_block"
+  },
+  {
+    "numeric_id": "23",
+    "display_name": "Dispenser",
+    "minecraft_id": "minecraft:dispenser"
+  },
+  {
+    "numeric_id": "24",
+    "display_name": "Sandstone",
+    "minecraft_id": "minecraft:sandstone"
+  },
+  {
+    "numeric_id": "24:1",
+    "display_name": "Chiseled Sandstone",
+    "minecraft_id": "minecraft:sandstone"
+  },
+  {
+    "numeric_id": "24:2",
+    "display_name": "Smooth Sandstone",
+    "minecraft_id": "minecraft:sandstone"
+  },
+  {
+    "numeric_id": "25",
+    "display_name": "Note Block",
+    "minecraft_id": "minecraft:noteblock"
+  },
+  {
+    "numeric_id": "26",
+    "display_name": "Bed",
+    "minecraft_id": "minecraft:bed"
+  },
+  {
+    "numeric_id": "27",
+    "display_name": "Powered Rail",
+    "minecraft_id": "minecraft:golden_rail"
+  },
+  {
+    "numeric_id": "28",
+    "display_name": "Detector Rail",
+    "minecraft_id": "minecraft:detector_rail"
+  },
+  {
+    "numeric_id": "29",
+    "display_name": "Sticky Piston",
+    "minecraft_id": "minecraft:sticky_piston"
+  },
+  {
+    "numeric_id": "30",
+    "display_name": "Cobweb",
+    "minecraft_id": "minecraft:web"
+  },
+  {
+    "numeric_id": "31",
+    "display_name": "Dead Shrub",
+    "minecraft_id": "minecraft:tallgrass"
+  },
+  {
+    "numeric_id": "31:1",
+    "display_name": "Grass",
+    "minecraft_id": "minecraft:tallgrass"
+  },
+  {
+    "numeric_id": "31:2",
+    "display_name": "Fern",
+    "minecraft_id": "minecraft:tallgrass"
+  },
+  {
+    "numeric_id": "32",
+    "display_name": "Dead Shrub",
+    "minecraft_id": "minecraft:deadbush"
+  },
+  {
+    "numeric_id": "33",
+    "display_name": "Piston",
+    "minecraft_id": "minecraft:piston"
+  },
+  {
+    "numeric_id": "34",
+    "display_name": "Piston Head",
+    "minecraft_id": "minecraft:piston_head"
+  },
+  {
+    "numeric_id": "35",
+    "display_name": "White Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:1",
+    "display_name": "Orange Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:2",
+    "display_name": "Magenta Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:3",
+    "display_name": "Light Blue Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:4",
+    "display_name": "Yellow Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:5",
+    "display_name": "Lime Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:6",
+    "display_name": "Pink Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:7",
+    "display_name": "Gray Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:8",
+    "display_name": "Light Gray Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:9",
+    "display_name": "Cyan Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:10",
+    "display_name": "Purple Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:11",
+    "display_name": "Blue Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:12",
+    "display_name": "Brown Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:13",
+    "display_name": "Green Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:14",
+    "display_name": "Red Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "35:15",
+    "display_name": "Black Wool",
+    "minecraft_id": "minecraft:wool"
+  },
+  {
+    "numeric_id": "37",
+    "display_name": "Dandelion",
+    "minecraft_id": "minecraft:yellow_flower"
+  },
+  {
+    "numeric_id": "38",
+    "display_name": "Poppy",
+    "minecraft_id": "minecraft:red_flower"
+  },
+  {
+    "numeric_id": "38:1",
+    "display_name": "Blue Orchid",
+    "minecraft_id": "minecraft:red_flower"
+  },
+  {
+    "numeric_id": "38:2",
+    "display_name": "Allium",
+    "minecraft_id": "minecraft:red_flower"
+  },
+  {
+    "numeric_id": "38:3",
+    "display_name": "Azure Bluet",
+    "minecraft_id": "minecraft:red_flower"
+  },
+  {
+    "numeric_id": "38:4",
+    "display_name": "Red Tulip",
+    "minecraft_id": "minecraft:red_flower"
+  },
+  {
+    "numeric_id": "38:5",
+    "display_name": "Orange Tulip",
+    "minecraft_id": "minecraft:red_flower"
+  },
+  {
+    "numeric_id": "38:6",
+    "display_name": "White Tulip",
+    "minecraft_id": "minecraft:red_flower"
+  },
+  {
+    "numeric_id": "38:7",
+    "display_name": "Pink Tulip",
+    "minecraft_id": "minecraft:red_flower"
+  },
+  {
+    "numeric_id": "38:8",
+    "display_name": "Oxeye Daisy",
+    "minecraft_id": "minecraft:red_flower"
+  },
+  {
+    "numeric_id": "39",
+    "display_name": "Brown Mushroom",
+    "minecraft_id": "minecraft:brown_mushroom"
+  },
+  {
+    "numeric_id": "40",
+    "display_name": "Red Mushroom",
+    "minecraft_id": "minecraft:red_mushroom"
+  },
+  {
+    "numeric_id": "41",
+    "display_name": "Gold Block",
+    "minecraft_id": "minecraft:gold_block"
+  },
+  {
+    "numeric_id": "42",
+    "display_name": "Iron Block",
+    "minecraft_id": "minecraft:iron_block"
+  },
+  {
+    "numeric_id": "43",
+    "display_name": "Double Stone Slab",
+    "minecraft_id": "minecraft:double_stone_slab"
+  },
+  {
+    "numeric_id": "43:1",
+    "display_name": "Double Sandstone Slab",
+    "minecraft_id": "minecraft:double_stone_slab"
+  },
+  {
+    "numeric_id": "43:2",
+    "display_name": "Double Wooden Slab",
+    "minecraft_id": "minecraft:double_stone_slab"
+  },
+  {
+    "numeric_id": "43:3",
+    "display_name": "Double Cobblestone Slab",
+    "minecraft_id": "minecraft:double_stone_slab"
+  },
+  {
+    "numeric_id": "43:4",
+    "display_name": "Double Brick Slab",
+    "minecraft_id": "minecraft:double_stone_slab"
+  },
+  {
+    "numeric_id": "43:5",
+    "display_name": "Double Stone Brick Slab",
+    "minecraft_id": "minecraft:double_stone_slab"
+  },
+  {
+    "numeric_id": "43:6",
+    "display_name": "Double Nether Brick Slab",
+    "minecraft_id": "minecraft:double_stone_slab"
+  },
+  {
+    "numeric_id": "43:7",
+    "display_name": "Double Quartz Slab",
+    "minecraft_id": "minecraft:double_stone_slab"
+  },
+  {
+    "numeric_id": "44",
+    "display_name": "Stone Slab",
+    "minecraft_id": "minecraft:stone_slab"
+  },
+  {
+    "numeric_id": "44:1",
+    "display_name": "Sandstone Slab",
+    "minecraft_id": "minecraft:stone_slab"
+  },
+  {
+    "numeric_id": "44:2",
+    "display_name": "Wooden Slab",
+    "minecraft_id": "minecraft:stone_slab"
+  },
+  {
+    "numeric_id": "44:3",
+    "display_name": "Cobblestone Slab",
+    "minecraft_id": "minecraft:stone_slab"
+  },
+  {
+    "numeric_id": "44:4",
+    "display_name": "Brick Slab",
+    "minecraft_id": "minecraft:stone_slab"
+  },
+  {
+    "numeric_id": "44:5",
+    "display_name": "Stone Brick Slab",
+    "minecraft_id": "minecraft:stone_slab"
+  },
+  {
+    "numeric_id": "44:6",
+    "display_name": "Nether Brick Slab",
+    "minecraft_id": "minecraft:stone_slab"
+  },
+  {
+    "numeric_id": "44:7",
+    "display_name": "Quartz Slab",
+    "minecraft_id": "minecraft:stone_slab"
+  },
+  {
+    "numeric_id": "45",
+    "display_name": "Bricks",
+    "minecraft_id": "minecraft:brick_block"
+  },
+  {
+    "numeric_id": "46",
+    "display_name": "TNT",
+    "minecraft_id": "minecraft:tnt"
+  },
+  {
+    "numeric_id": "47",
+    "display_name": "Bookshelf",
+    "minecraft_id": "minecraft:bookshelf"
+  },
+  {
+    "numeric_id": "48",
+    "display_name": "Moss Stone",
+    "minecraft_id": "minecraft:mossy_cobblestone"
+  },
+  {
+    "numeric_id": "49",
+    "display_name": "Obsidian",
+    "minecraft_id": "minecraft:obsidian"
+  },
+  {
+    "numeric_id": "50",
+    "display_name": "Torch",
+    "minecraft_id": "minecraft:torch"
+  },
+  {
+    "numeric_id": "51",
+    "display_name": "Fire",
+    "minecraft_id": "minecraft:fire"
+  },
+  {
+    "numeric_id": "52",
+    "display_name": "Monster Spawner",
+    "minecraft_id": "minecraft:mob_spawner"
+  },
+  {
+    "numeric_id": "53",
+    "display_name": "Oak Wood Stairs",
+    "minecraft_id": "minecraft:oak_stairs"
+  },
+  {
+    "numeric_id": "54",
+    "display_name": "Chest",
+    "minecraft_id": "minecraft:chest"
+  },
+  {
+    "numeric_id": "55",
+    "display_name": "Redstone Wire",
+    "minecraft_id": "minecraft:redstone_wire"
+  },
+  {
+    "numeric_id": "56",
+    "display_name": "Diamond Ore",
+    "minecraft_id": "minecraft:diamond_ore"
+  },
+  {
+    "numeric_id": "57",
+    "display_name": "Diamond Block",
+    "minecraft_id": "minecraft:diamond_block"
+  },
+  {
+    "numeric_id": "58",
+    "display_name": "Crafting Table",
+    "minecraft_id": "minecraft:crafting_table"
+  },
+  {
+    "numeric_id": "59",
+    "display_name": "Wheat Crops",
+    "minecraft_id": "minecraft:wheat"
+  },
+  {
+    "numeric_id": "60",
+    "display_name": "Farmland",
+    "minecraft_id": "minecraft:farmland"
+  },
+  {
+    "numeric_id": "61",
+    "display_name": "Furnace",
+    "minecraft_id": "minecraft:furnace"
+  },
+  {
+    "numeric_id": "62",
+    "display_name": "Burning Furnace",
+    "minecraft_id": "minecraft:lit_furnace"
+  },
+  {
+    "numeric_id": "63",
+    "display_name": "Standing Sign Block",
+    "minecraft_id": "minecraft:standing_sign"
+  },
+  {
+    "numeric_id": "64",
+    "display_name": "Wooden Door Block",
+    "minecraft_id": "minecraft:wooden_door"
+  },
+  {
+    "numeric_id": "65",
+    "display_name": "Ladder",
+    "minecraft_id": "minecraft:ladder"
+  },
+  {
+    "numeric_id": "66",
+    "display_name": "Rail",
+    "minecraft_id": "minecraft:rail"
+  },
+  {
+    "numeric_id": "67",
+    "display_name": "Cobblestone Stairs",
+    "minecraft_id": "minecraft:stone_stairs"
+  },
+  {
+    "numeric_id": "68",
+    "display_name": "Wall-mounted Sign Block",
+    "minecraft_id": "minecraft:wall_sign"
+  },
+  {
+    "numeric_id": "69",
+    "display_name": "Lever",
+    "minecraft_id": "minecraft:lever"
+  },
+  {
+    "numeric_id": "70",
+    "display_name": "Stone Pressure Plate",
+    "minecraft_id": "minecraft:stone_pressure_plate"
+  },
+  {
+    "numeric_id": "71",
+    "display_name": "Iron Door Block",
+    "minecraft_id": "minecraft:iron_door"
+  },
+  {
+    "numeric_id": "72",
+    "display_name": "Wooden Pressure Plate",
+    "minecraft_id": "minecraft:wooden_pressure_plate"
+  },
+  {
+    "numeric_id": "73",
+    "display_name": "Redstone Ore",
+    "minecraft_id": "minecraft:redstone_ore"
+  },
+  {
+    "numeric_id": "74",
+    "display_name": "Glowing Redstone Ore",
+    "minecraft_id": "minecraft:lit_redstone_ore"
+  },
+  {
+    "numeric_id": "75",
+    "display_name": "Redstone Torch (off)",
+    "minecraft_id": "minecraft:unlit_redstone_torch"
+  },
+  {
+    "numeric_id": "76",
+    "display_name": "Redstone Torch (on)",
+    "minecraft_id": "minecraft:redstone_torch"
+  },
+  {
+    "numeric_id": "77",
+    "display_name": "Stone Button",
+    "minecraft_id": "minecraft:stone_button"
+  },
+  {
+    "numeric_id": "78",
+    "display_name": "Snow",
+    "minecraft_id": "minecraft:snow_layer"
+  },
+  {
+    "numeric_id": "79",
+    "display_name": "Ice",
+    "minecraft_id": "minecraft:ice"
+  },
+  {
+    "numeric_id": "80",
+    "display_name": "Snow Block",
+    "minecraft_id": "minecraft:snow"
+  },
+  {
+    "numeric_id": "81",
+    "display_name": "Cactus",
+    "minecraft_id": "minecraft:cactus"
+  },
+  {
+    "numeric_id": "82",
+    "display_name": "Clay",
+    "minecraft_id": "minecraft:clay"
+  },
+  {
+    "numeric_id": "83",
+    "display_name": "Sugar Canes",
+    "minecraft_id": "minecraft:reeds"
+  },
+  {
+    "numeric_id": "84",
+    "display_name": "Jukebox",
+    "minecraft_id": "minecraft:jukebox"
+  },
+  {
+    "numeric_id": "85",
+    "display_name": "Oak Fence",
+    "minecraft_id": "minecraft:fence"
+  },
+  {
+    "numeric_id": "86",
+    "display_name": "Pumpkin",
+    "minecraft_id": "minecraft:pumpkin"
+  },
+  {
+    "numeric_id": "87",
+    "display_name": "Netherrack",
+    "minecraft_id": "minecraft:netherrack"
+  },
+  {
+    "numeric_id": "88",
+    "display_name": "Soul Sand",
+    "minecraft_id": "minecraft:soul_sand"
+  },
+  {
+    "numeric_id": "89",
+    "display_name": "Glowstone",
+    "minecraft_id": "minecraft:glowstone"
+  },
+  {
+    "numeric_id": "90",
+    "display_name": "Nether Portal",
+    "minecraft_id": "minecraft:portal"
+  },
+  {
+    "numeric_id": "91",
+    "display_name": "Jack o’Lantern",
+    "minecraft_id": "minecraft:lit_pumpkin"
+  },
+  {
+    "numeric_id": "92",
+    "display_name": "Cake Block",
+    "minecraft_id": "minecraft:cake"
+  },
+  {
+    "numeric_id": "93",
+    "display_name": "Redstone Repeater Block (off)",
+    "minecraft_id": "minecraft:unpowered_repeater"
+  },
+  {
+    "numeric_id": "94",
+    "display_name": "Redstone Repeater Block (on)",
+    "minecraft_id": "minecraft:powered_repeater"
+  },
+  {
+    "numeric_id": "95",
+    "display_name": "White Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:1",
+    "display_name": "Orange Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:2",
+    "display_name": "Magenta Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:3",
+    "display_name": "Light Blue Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:4",
+    "display_name": "Yellow Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:5",
+    "display_name": "Lime Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:6",
+    "display_name": "Pink Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:7",
+    "display_name": "Gray Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:8",
+    "display_name": "Light Gray Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:9",
+    "display_name": "Cyan Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:10",
+    "display_name": "Purple Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:11",
+    "display_name": "Blue Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:12",
+    "display_name": "Brown Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:13",
+    "display_name": "Green Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:14",
+    "display_name": "Red Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "95:15",
+    "display_name": "Black Stained Glass",
+    "minecraft_id": "minecraft:stained_glass"
+  },
+  {
+    "numeric_id": "96",
+    "display_name": "Wooden Trapdoor",
+    "minecraft_id": "minecraft:trapdoor"
+  },
+  {
+    "numeric_id": "97",
+    "display_name": "Stone Monster Egg",
+    "minecraft_id": "minecraft:monster_egg"
+  },
+  {
+    "numeric_id": "97:1",
+    "display_name": "Cobblestone Monster Egg",
+    "minecraft_id": "minecraft:monster_egg"
+  },
+  {
+    "numeric_id": "97:2",
+    "display_name": "Stone Brick Monster Egg",
+    "minecraft_id": "minecraft:monster_egg"
+  },
+  {
+    "numeric_id": "97:3",
+    "display_name": "Mossy Stone Brick Monster Egg",
+    "minecraft_id": "minecraft:monster_egg"
+  },
+  {
+    "numeric_id": "97:4",
+    "display_name": "Cracked Stone Brick Monster Egg",
+    "minecraft_id": "minecraft:monster_egg"
+  },
+  {
+    "numeric_id": "97:5",
+    "display_name": "Chiseled Stone Brick Monster Egg",
+    "minecraft_id": "minecraft:monster_egg"
+  },
+  {
+    "numeric_id": "98",
+    "display_name": "Stone Bricks",
+    "minecraft_id": "minecraft:stonebrick"
+  },
+  {
+    "numeric_id": "98:1",
+    "display_name": "Mossy Stone Bricks",
+    "minecraft_id": "minecraft:stonebrick"
+  },
+  {
+    "numeric_id": "98:2",
+    "display_name": "Cracked Stone Bricks",
+    "minecraft_id": "minecraft:stonebrick"
+  },
+  {
+    "numeric_id": "98:3",
+    "display_name": "Chiseled Stone Bricks",
+    "minecraft_id": "minecraft:stonebrick"
+  },
+  {
+    "numeric_id": "99",
+    "display_name": "Red Mushroom Cap",
+    "minecraft_id": "minecraft:stonebrick"
+  },
+  {
+    "numeric_id": "100",
+    "display_name": "Brown Mushroom Cap",
+    "minecraft_id": "minecraft:stonebrick"
+  },
+  {
+    "numeric_id": "101",
+    "display_name": "Iron Bars",
+    "minecraft_id": "minecraft:iron_bars"
+  },
+  {
+    "numeric_id": "102",
+    "display_name": "Glass Pane",
+    "minecraft_id": "minecraft:glass_pane"
+  },
+  {
+    "numeric_id": "103",
+    "display_name": "Melon Block",
+    "minecraft_id": "minecraft:melon_block"
+  },
+  {
+    "numeric_id": "104",
+    "display_name": "Pumpkin Stem",
+    "minecraft_id": "minecraft:pumpkin_stem"
+  },
+  {
+    "numeric_id": "105",
+    "display_name": "Melon Stem",
+    "minecraft_id": "minecraft:melon_stem"
+  },
+  {
+    "numeric_id": "106",
+    "display_name": "Vines",
+    "minecraft_id": "minecraft:vine"
+  },
+  {
+    "numeric_id": "107",
+    "display_name": "Oak Fence Gate",
+    "minecraft_id": "minecraft:fence_gate"
+  },
+  {
+    "numeric_id": "108",
+    "display_name": "Brick Stairs",
+    "minecraft_id": "minecraft:brick_stairs"
+  },
+  {
+    "numeric_id": "109",
+    "display_name": "Stone Brick Stairs",
+    "minecraft_id": "minecraft:stone_brick_stairs"
+  },
+  {
+    "numeric_id": "110",
+    "display_name": "Mycelium",
+    "minecraft_id": "minecraft:mycelium"
+  },
+  {
+    "numeric_id": "111",
+    "display_name": "Lily Pad",
+    "minecraft_id": "minecraft:waterlily"
+  },
+  {
+    "numeric_id": "112",
+    "display_name": "Nether Brick",
+    "minecraft_id": "minecraft:nether_brick"
+  },
+  {
+    "numeric_id": "113",
+    "display_name": "Nether Brick Fence",
+    "minecraft_id": "minecraft:nether_brick_fence"
+  },
+  {
+    "numeric_id": "114",
+    "display_name": "Nether Brick Stairs",
+    "minecraft_id": "minecraft:nether_brick_stairs"
+  },
+  {
+    "numeric_id": "115",
+    "display_name": "Nether Wart",
+    "minecraft_id": "minecraft:nether_wart"
+  },
+  {
+    "numeric_id": "116",
+    "display_name": "Enchantment Table",
+    "minecraft_id": "minecraft:enchanting_table"
+  },
+  {
+    "numeric_id": "117",
+    "display_name": "Brewing Stand",
+    "minecraft_id": "minecraft:brewing_stand"
+  },
+  {
+    "numeric_id": "118",
+    "display_name": "Cauldron",
+    "minecraft_id": "minecraft:cauldron"
+  },
+  {
+    "numeric_id": "119",
+    "display_name": "End Portal",
+    "minecraft_id": "minecraft:end_portal"
+  },
+  {
+    "numeric_id": "120",
+    "display_name": "End Portal Frame",
+    "minecraft_id": "minecraft:end_portal_frame"
+  },
+  {
+    "numeric_id": "121",
+    "display_name": "End Stone",
+    "minecraft_id": "minecraft:end_stone"
+  },
+  {
+    "numeric_id": "122",
+    "display_name": "Dragon Egg",
+    "minecraft_id": "minecraft:dragon_egg"
+  },
+  {
+    "numeric_id": "123",
+    "display_name": "Redstone Lamp (inactive)",
+    "minecraft_id": "minecraft:redstone_lamp"
+  },
+  {
+    "numeric_id": "124",
+    "display_name": "Redstone Lamp (active)",
+    "minecraft_id": "minecraft:lit_redstone_lamp"
+  },
+  {
+    "numeric_id": "125",
+    "display_name": "Double Oak Wood Slab",
+    "minecraft_id": "minecraft:double_wooden_slab"
+  },
+  {
+    "numeric_id": "125:1",
+    "display_name": "Double Spruce Wood Slab",
+    "minecraft_id": "minecraft:double_wooden_slab"
+  },
+  {
+    "numeric_id": "125:2",
+    "display_name": "Double Birch Wood Slab",
+    "minecraft_id": "minecraft:double_wooden_slab"
+  },
+  {
+    "numeric_id": "125:3",
+    "display_name": "Double Jungle Wood Slab",
+    "minecraft_id": "minecraft:double_wooden_slab"
+  },
+  {
+    "numeric_id": "125:4",
+    "display_name": "Double Acacia Wood Slab",
+    "minecraft_id": "minecraft:double_wooden_slab"
+  },
+  {
+    "numeric_id": "125:5",
+    "display_name": "Double Dark Oak Wood Slab",
+    "minecraft_id": "minecraft:double_wooden_slab"
+  },
+  {
+    "numeric_id": "126",
+    "display_name": "Oak Wood Slab",
+    "minecraft_id": "minecraft:wooden_slab"
+  },
+  {
+    "numeric_id": "126:1",
+    "display_name": "Spruce Wood Slab",
+    "minecraft_id": "minecraft:wooden_slab"
+  },
+  {
+    "numeric_id": "126:2",
+    "display_name": "Birch Wood Slab",
+    "minecraft_id": "minecraft:wooden_slab"
+  },
+  {
+    "numeric_id": "126:3",
+    "display_name": "Jungle Wood Slab",
+    "minecraft_id": "minecraft:wooden_slab"
+  },
+  {
+    "numeric_id": "126:4",
+    "display_name": "Acacia Wood Slab",
+    "minecraft_id": "minecraft:wooden_slab"
+  },
+  {
+    "numeric_id": "126:5",
+    "display_name": "Dark Oak Wood Slab",
+    "minecraft_id": "minecraft:wooden_slab"
+  },
+  {
+    "numeric_id": "127",
+    "display_name": "Cocoa",
+    "minecraft_id": "minecraft:cocoa"
+  },
+  {
+    "numeric_id": "128",
+    "display_name": "Sandstone Stairs",
+    "minecraft_id": "minecraft:sandstone_stairs"
+  },
+  {
+    "numeric_id": "129",
+    "display_name": "Emerald Ore",
+    "minecraft_id": "minecraft:emerald_ore"
+  },
+  {
+    "numeric_id": "130",
+    "display_name": "Ender Chest",
+    "minecraft_id": "minecraft:ender_chest"
+  },
+  {
+    "numeric_id": "131",
+    "display_name": "Tripwire Hook",
+    "minecraft_id": "minecraft:tripwire_hook"
+  },
+  {
+    "numeric_id": "132",
+    "display_name": "Tripwire",
+    "minecraft_id": "minecraft:tripwire_hook"
+  },
+  {
+    "numeric_id": "133",
+    "display_name": "Emerald Block",
+    "minecraft_id": "minecraft:emerald_block"
+  },
+  {
+    "numeric_id": "134",
+    "display_name": "Spruce Wood Stairs",
+    "minecraft_id": "minecraft:spruce_stairs"
+  },
+  {
+    "numeric_id": "135",
+    "display_name": "Birch Wood Stairs",
+    "minecraft_id": "minecraft:birch_stairs"
+  },
+  {
+    "numeric_id": "136",
+    "display_name": "Jungle Wood Stairs",
+    "minecraft_id": "minecraft:jungle_stairs"
+  },
+  {
+    "numeric_id": "137",
+    "display_name": "Command Block",
+    "minecraft_id": "minecraft:command_block"
+  },
+  {
+    "numeric_id": "138",
+    "display_name": "Beacon",
+    "minecraft_id": "minecraft:beacon"
+  },
+  {
+    "numeric_id": "139",
+    "display_name": "Cobblestone Wall",
+    "minecraft_id": "minecraft:cobblestone_wall"
+  },
+  {
+    "numeric_id": "139:1",
+    "display_name": "Mossy Cobblestone Wall",
+    "minecraft_id": "minecraft:cobblestone_wall"
+  },
+  {
+    "numeric_id": "140",
+    "display_name": "Flower Pot",
+    "minecraft_id": "minecraft:flower_pot"
+  },
+  {
+    "numeric_id": "141",
+    "display_name": "Carrots",
+    "minecraft_id": "minecraft:carrots"
+  },
+  {
+    "numeric_id": "142",
+    "display_name": "Potatoes",
+    "minecraft_id": "minecraft:potatoes"
+  },
+  {
+    "numeric_id": "143",
+    "display_name": "Wooden Button",
+    "minecraft_id": "minecraft:wooden_button"
+  },
+  {
+    "numeric_id": "144",
+    "display_name": "Mob Head",
+    "minecraft_id": "minecraft:skull"
+  },
+  {
+    "numeric_id": "145",
+    "display_name": "Anvil",
+    "minecraft_id": "minecraft:anvil"
+  },
+  {
+    "numeric_id": "146",
+    "display_name": "Trapped Chest",
+    "minecraft_id": "minecraft:trapped_chest"
+  },
+  {
+    "numeric_id": "147",
+    "display_name": "Weighted Pressure Plate (light)",
+    "minecraft_id": "minecraft:light_weighted_pressure_plate"
+  },
+  {
+    "numeric_id": "148",
+    "display_name": "Weighted Pressure Plate (heavy)",
+    "minecraft_id": "minecraft:heavy_weighted_pressure_plate"
+  },
+  {
+    "numeric_id": "149",
+    "display_name": "Redstone Comparator (inactive)",
+    "minecraft_id": "minecraft:unpowered_comparator"
+  },
+  {
+    "numeric_id": "150",
+    "display_name": "Redstone Comparator (active)",
+    "minecraft_id": "minecraft:powered_comparator"
+  },
+  {
+    "numeric_id": "151",
+    "display_name": "Daylight Sensor",
+    "minecraft_id": "minecraft:daylight_detector"
+  },
+  {
+    "numeric_id": "152",
+    "display_name": "Redstone Block",
+    "minecraft_id": "minecraft:redstone_block"
+  },
+  {
+    "numeric_id": "153",
+    "display_name": "Nether Quartz Ore",
+    "minecraft_id": "minecraft:quartz_ore"
+  },
+  {
+    "numeric_id": "154",
+    "display_name": "Hopper",
+    "minecraft_id": "minecraft:hopper"
+  },
+  {
+    "numeric_id": "155",
+    "display_name": "Quartz Block",
+    "minecraft_id": "minecraft:quartz_block"
+  },
+  {
+    "numeric_id": "155:1",
+    "display_name": "Chiseled Quartz Block",
+    "minecraft_id": "minecraft:quartz_block"
+  },
+  {
+    "numeric_id": "155:2",
+    "display_name": "Pillar Quartz Block",
+    "minecraft_id": "minecraft:quartz_block"
+  },
+  {
+    "numeric_id": "156",
+    "display_name": "Quartz Stairs",
+    "minecraft_id": "minecraft:quartz_stairs"
+  },
+  {
+    "numeric_id": "157",
+    "display_name": "Activator Rail",
+    "minecraft_id": "minecraft:activator_rail"
+  },
+  {
+    "numeric_id": "158",
+    "display_name": "Dropper",
+    "minecraft_id": "minecraft:dropper"
+  },
+  {
+    "numeric_id": "159",
+    "display_name": "White Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:1",
+    "display_name": "Orange Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:2",
+    "display_name": "Magenta Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:3",
+    "display_name": "Light Blue Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:4",
+    "display_name": "Yellow Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:5",
+    "display_name": "Lime Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:6",
+    "display_name": "Pink Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:7",
+    "display_name": "Gray Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:8",
+    "display_name": "Light Gray Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:9",
+    "display_name": "Cyan Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:10",
+    "display_name": "Purple Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:11",
+    "display_name": "Blue Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:12",
+    "display_name": "Brown Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:13",
+    "display_name": "Green Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:14",
+    "display_name": "Red Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "159:15",
+    "display_name": "Black Stained Clay",
+    "minecraft_id": "minecraft:stained_hardened_clay"
+  },
+  {
+    "numeric_id": "160",
+    "display_name": "White Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:1",
+    "display_name": "Orange Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:2",
+    "display_name": "Magenta Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:3",
+    "display_name": "Light Blue Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:4",
+    "display_name": "Yellow Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:5",
+    "display_name": "Lime Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:6",
+    "display_name": "Pink Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:7",
+    "display_name": "Gray Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:8",
+    "display_name": "Light Gray Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:9",
+    "display_name": "Cyan Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:10",
+    "display_name": "Purple Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:11",
+    "display_name": "Blue Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:12",
+    "display_name": "Brown Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:13",
+    "display_name": "Green Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:14",
+    "display_name": "Red Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "160:15",
+    "display_name": "Black Stained Glass Pane",
+    "minecraft_id": "minecraft:stained_glass_pane"
+  },
+  {
+    "numeric_id": "161",
+    "display_name": "Acacia Leaves",
+    "minecraft_id": "minecraft:leaves2"
+  },
+  {
+    "numeric_id": "161:1",
+    "display_name": "Dark Oak Leaves",
+    "minecraft_id": "minecraft:leaves2"
+  },
+  {
+    "numeric_id": "162",
+    "display_name": "Acacia Wood",
+    "minecraft_id": "minecraft:logs2"
+  },
+  {
+    "numeric_id": "162:1",
+    "display_name": "Dark Oak Wood",
+    "minecraft_id": "minecraft:logs2"
+  },
+  {
+    "numeric_id": "163",
+    "display_name": "Acacia Wood Stairs",
+    "minecraft_id": "minecraft:acacia_stairs"
+  },
+  {
+    "numeric_id": "164",
+    "display_name": "Dark Oak Wood Stairs",
+    "minecraft_id": "minecraft:dark_oak_stairs"
+  },
+  {
+    "numeric_id": "165",
+    "display_name": "Slime Block",
+    "minecraft_id": "minecraft:slime"
+  },
+  {
+    "numeric_id": "166",
+    "display_name": "Barrier",
+    "minecraft_id": "minecraft:barrier"
+  },
+  {
+    "numeric_id": "167",
+    "display_name": "Iron Trapdoor",
+    "minecraft_id": "minecraft:iron_trapdoor"
+  },
+  {
+    "numeric_id": "168",
+    "display_name": "Prismarine",
+    "minecraft_id": "minecraft:prismarine"
+  },
+  {
+    "numeric_id": "168:1",
+    "display_name": "Prismarine Bricks",
+    "minecraft_id": "minecraft:prismarine"
+  },
+  {
+    "numeric_id": "168:2",
+    "display_name": "Dark Prismarine",
+    "minecraft_id": "minecraft:prismarine"
+  },
+  {
+    "numeric_id": "169",
+    "display_name": "Sea Lantern",
+    "minecraft_id": "minecraft:sea_lantern"
+  },
+  {
+    "numeric_id": "170",
+    "display_name": "Hay Bale",
+    "minecraft_id": "minecraft:hay_block"
+  },
+  {
+    "numeric_id": "171",
+    "display_name": "White Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:1",
+    "display_name": "Orange Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:2",
+    "display_name": "Magenta Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:3",
+    "display_name": "Light Blue Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:4",
+    "display_name": "Yellow Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:5",
+    "display_name": "Lime Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:6",
+    "display_name": "Pink Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:7",
+    "display_name": "Gray Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:8",
+    "display_name": "Light Gray Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:9",
+    "display_name": "Cyan Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:10",
+    "display_name": "Purple Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:11",
+    "display_name": "Blue Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:12",
+    "display_name": "Brown Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:13",
+    "display_name": "Green Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:14",
+    "display_name": "Red Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "171:15",
+    "display_name": "Black Carpet",
+    "minecraft_id": "minecraft:carpet"
+  },
+  {
+    "numeric_id": "172",
+    "display_name": "Hardened Clay",
+    "minecraft_id": "minecraft:hardened_clay"
+  },
+  {
+    "numeric_id": "173",
+    "display_name": "Block of Coal",
+    "minecraft_id": "minecraft:coal_block"
+  },
+  {
+    "numeric_id": "174",
+    "display_name": "Packed Ice",
+    "minecraft_id": "minecraft:packed_ice"
+  },
+  {
+    "numeric_id": "175",
+    "display_name": "Sunflower",
+    "minecraft_id": "minecraft:double_plant"
+  },
+  {
+    "numeric_id": "175:1",
+    "display_name": "Lilac",
+    "minecraft_id": "minecraft:double_plant"
+  },
+  {
+    "numeric_id": "175:2",
+    "display_name": "Double Tallgrass",
+    "minecraft_id": "minecraft:double_plant"
+  },
+  {
+    "numeric_id": "175:3",
+    "display_name": "Large Fern",
+    "minecraft_id": "minecraft:double_plant"
+  },
+  {
+    "numeric_id": "175:4",
+    "display_name": "Rose Bush",
+    "minecraft_id": "minecraft:double_plant"
+  },
+  {
+    "numeric_id": "175:5",
+    "display_name": "Peony",
+    "minecraft_id": "minecraft:double_plant"
+  },
+  {
+    "numeric_id": "176",
+    "display_name": "Free-standing Banner",
+    "minecraft_id": "minecraft:standing_banner"
+  },
+  {
+    "numeric_id": "177",
+    "display_name": "Wall-mounted Banner",
+    "minecraft_id": "minecraft:wall_banner"
+  },
+  {
+    "numeric_id": "178",
+    "display_name": "Inverted Daylight Sensor",
+    "minecraft_id": "minecraft:daylight_detector_inverted"
+  },
+  {
+    "numeric_id": "179",
+    "display_name": "Red Sandstone",
+    "minecraft_id": "minecraft:red_sandstone"
+  },
+  {
+    "numeric_id": "179:1",
+    "display_name": "Smooth Red Sandstone",
+    "minecraft_id": "minecraft:red_sandstone"
+  },
+  {
+    "numeric_id": "179:2",
+    "display_name": "Chiseled Red Sandstone",
+    "minecraft_id": "minecraft:red_sandstone"
+  },
+  {
+    "numeric_id": "180",
+    "display_name": "Red Sandstone Stairs",
+    "minecraft_id": "minecraft:red_sandstone_stairs"
+  },
+  {
+    "numeric_id": "181",
+    "display_name": "Double Red Sandstone Slab",
+    "minecraft_id": "minecraft:stone_slab2"
+  },
+  {
+    "numeric_id": "182",
+    "display_name": "Red Sandstone Slab",
+    "minecraft_id": "minecraft:double_stone_slab2"
+  },
+  {
+    "numeric_id": "183",
+    "display_name": "Spruce Fence Gate",
+    "minecraft_id": "minecraft:spruce_fence_gate"
+  },
+  {
+    "numeric_id": "184",
+    "display_name": "Birch Fence Gate",
+    "minecraft_id": "minecraft:birch_fence_gate"
+  },
+  {
+    "numeric_id": "185",
+    "display_name": "Jungle Fence Gate",
+    "minecraft_id": "minecraft:jungle_fence_gate"
+  },
+  {
+    "numeric_id": "186",
+    "display_name": "Dark Oak Fence Gate",
+    "minecraft_id": "minecraft:dark_oak_fence_gate"
+  },
+  {
+    "numeric_id": "187",
+    "display_name": "Acacia Fence Gate",
+    "minecraft_id": "minecraft:acacia_fence_gate"
+  },
+  {
+    "numeric_id": "188",
+    "display_name": "Spruce Fence",
+    "minecraft_id": "minecraft:spruce_fence"
+  },
+  {
+    "numeric_id": "189",
+    "display_name": "Birch Fence",
+    "minecraft_id": "minecraft:birch_fence"
+  },
+  {
+    "numeric_id": "190",
+    "display_name": "Jungle Fence",
+    "minecraft_id": "minecraft:jungle_fence"
+  },
+  {
+    "numeric_id": "191",
+    "display_name": "Dark Oak Fence",
+    "minecraft_id": "minecraft:dark_oak_fence"
+  },
+  {
+    "numeric_id": "192",
+    "display_name": "Acacia Fence",
+    "minecraft_id": "minecraft:acacia_fence"
+  },
+  {
+    "numeric_id": "193",
+    "display_name": "Spure Door Block",
+    "minecraft_id": "minecraft:spruce_door"
+  },
+  {
+    "numeric_id": "194",
+    "display_name": "Birch Door Block",
+    "minecraft_id": "minecraft:birch_door"
+  },
+  {
+    "numeric_id": "195",
+    "display_name": "Jungle Door Block",
+    "minecraft_id": "minecraft:jungle_door"
+  },
+  {
+    "numeric_id": "196",
+    "display_name": "Acacia Door Block",
+    "minecraft_id": "minecraft:acacia_door"
+  },
+  {
+    "numeric_id": "197",
+    "display_name": "Dark Oak Door Block",
+    "minecraft_id": "minecraft:dark_oak_door"
+  },
+  {
+    "numeric_id": "256",
+    "display_name": "Iron Shovel",
+    "minecraft_id": "minecraft:iron_shovel"
+  },
+  {
+    "numeric_id": "257",
+    "display_name": "Iron Pickaxe",
+    "minecraft_id": "minecraft:iron_pickaxe"
+  },
+  {
+    "numeric_id": "258",
+    "display_name": "Iron Axe",
+    "minecraft_id": "minecraft:iron_axe"
+  },
+  {
+    "numeric_id": "259",
+    "display_name": "Flint and Steel",
+    "minecraft_id": "minecraft:flint_and_steel"
+  },
+  {
+    "numeric_id": "260",
+    "display_name": "Apple",
+    "minecraft_id": "minecraft:apple"
+  },
+  {
+    "numeric_id": "261",
+    "display_name": "Bow",
+    "minecraft_id": "minecraft:bow"
+  },
+  {
+    "numeric_id": "262",
+    "display_name": "Arrow",
+    "minecraft_id": "minecraft:arrow"
+  },
+  {
+    "numeric_id": "263",
+    "display_name": "Coal",
+    "minecraft_id": "minecraft:coal"
+  },
+  {
+    "numeric_id": "263:1",
+    "display_name": "Charcoal",
+    "minecraft_id": "minecraft:coal"
+  },
+  {
+    "numeric_id": "264",
+    "display_name": "Diamond",
+    "minecraft_id": "minecraft:diamond"
+  },
+  {
+    "numeric_id": "265",
+    "display_name": "Iron Ingot",
+    "minecraft_id": "minecraft:iron_ingot"
+  },
+  {
+    "numeric_id": "266",
+    "display_name": "Gold Ingot",
+    "minecraft_id": "minecraft:gold_ingot"
+  },
+  {
+    "numeric_id": "267",
+    "display_name": "Iron Sword",
+    "minecraft_id": "minecraft:iron_sword"
+  },
+  {
+    "numeric_id": "268",
+    "display_name": "Wooden Sword",
+    "minecraft_id": "minecraft:wooden_sword"
+  },
+  {
+    "numeric_id": "269",
+    "display_name": "Wooden Shovel",
+    "minecraft_id": "minecraft:wooden_shovel"
+  },
+  {
+    "numeric_id": "270",
+    "display_name": "Wooden Pickaxe",
+    "minecraft_id": "minecraft:wooden_pickaxe"
+  },
+  {
+    "numeric_id": "271",
+    "display_name": "Wooden Axe",
+    "minecraft_id": "minecraft:wooden_axe"
+  },
+  {
+    "numeric_id": "272",
+    "display_name": "Stone Sword",
+    "minecraft_id": "minecraft:stone_sword"
+  },
+  {
+    "numeric_id": "273",
+    "display_name": "Stone Shovel",
+    "minecraft_id": "minecraft:stone_shovel"
+  },
+  {
+    "numeric_id": "274",
+    "display_name": "Stone Pickaxe",
+    "minecraft_id": "minecraft:stone_pickaxe"
+  },
+  {
+    "numeric_id": "275",
+    "display_name": "Stone Axe",
+    "minecraft_id": "minecraft:stone_axe"
+  },
+  {
+    "numeric_id": "276",
+    "display_name": "Diamond Sword",
+    "minecraft_id": "minecraft:diamond_sword"
+  },
+  {
+    "numeric_id": "277",
+    "display_name": "Diamond Shovel",
+    "minecraft_id": "minecraft:diamond_shovel"
+  },
+  {
+    "numeric_id": "278",
+    "display_name": "Diamond Pickaxe",
+    "minecraft_id": "minecraft:diamond_pickaxe"
+  },
+  {
+    "numeric_id": "279",
+    "display_name": "Diamond Axe",
+    "minecraft_id": "minecraft:diamond_axe"
+  },
+  {
+    "numeric_id": "280",
+    "display_name": "Stick",
+    "minecraft_id": "minecraft:stick"
+  },
+  {
+    "numeric_id": "281",
+    "display_name": "Bowl",
+    "minecraft_id": "minecraft:bowl"
+  },
+  {
+    "numeric_id": "282",
+    "display_name": "Mushroom Stew",
+    "minecraft_id": "minecraft:mushroom_stew"
+  },
+  {
+    "numeric_id": "283",
+    "display_name": "Golden Sword",
+    "minecraft_id": "minecraft:golden_sword"
+  },
+  {
+    "numeric_id": "284",
+    "display_name": "Golden Shovel",
+    "minecraft_id": "minecraft:golden_shovel"
+  },
+  {
+    "numeric_id": "285",
+    "display_name": "Golden Pickaxe",
+    "minecraft_id": "minecraft:golden_pickaxe"
+  },
+  {
+    "numeric_id": "286",
+    "display_name": "Golden Axe",
+    "minecraft_id": "minecraft:golden_axe"
+  },
+  {
+    "numeric_id": "287",
+    "display_name": "String",
+    "minecraft_id": "minecraft:string"
+  },
+  {
+    "numeric_id": "288",
+    "display_name": "Feather",
+    "minecraft_id": "minecraft:feather"
+  },
+  {
+    "numeric_id": "289",
+    "display_name": "Gunpowder",
+    "minecraft_id": "minecraft:gunpowder"
+  },
+  {
+    "numeric_id": "290",
+    "display_name": "Wooden Hoe",
+    "minecraft_id": "minecraft:wooden_hoe"
+  },
+  {
+    "numeric_id": "291",
+    "display_name": "Stone Hoe",
+    "minecraft_id": "minecraft:stone_hoe"
+  },
+  {
+    "numeric_id": "292",
+    "display_name": "Iron Hoe",
+    "minecraft_id": "minecraft:iron_hoe"
+  },
+  {
+    "numeric_id": "293",
+    "display_name": "Diamond Hoe",
+    "minecraft_id": "minecraft:diamond_hoe"
+  },
+  {
+    "numeric_id": "294",
+    "display_name": "Golden Hoe",
+    "minecraft_id": "minecraft:golden_hoe"
+  },
+  {
+    "numeric_id": "295",
+    "display_name": "Wheat Seeds",
+    "minecraft_id": "minecraft:wheat_seeds"
+  },
+  {
+    "numeric_id": "296",
+    "display_name": "Wheat",
+    "minecraft_id": "minecraft:wheat"
+  },
+  {
+    "numeric_id": "297",
+    "display_name": "Bread",
+    "minecraft_id": "minecraft:bread"
+  },
+  {
+    "numeric_id": "298",
+    "display_name": "Leather Helmet",
+    "minecraft_id": "minecraft:leather_helmet"
+  },
+  {
+    "numeric_id": "299",
+    "display_name": "Leather Tunic",
+    "minecraft_id": "minecraft:leather_chestplate"
+  },
+  {
+    "numeric_id": "300",
+    "display_name": "Leather Pants",
+    "minecraft_id": "minecraft:leather_leggings"
+  },
+  {
+    "numeric_id": "301",
+    "display_name": "Leather Boots",
+    "minecraft_id": "minecraft:leather_boots"
+  },
+  {
+    "numeric_id": "302",
+    "display_name": "Chainmail Helmet",
+    "minecraft_id": "minecraft:chainmail_helmet"
+  },
+  {
+    "numeric_id": "303",
+    "display_name": "Chainmail Chestplate",
+    "minecraft_id": "minecraft:chainmail_chestplate"
+  },
+  {
+    "numeric_id": "304",
+    "display_name": "Chainmail Leggings",
+    "minecraft_id": "minecraft:chainmail_leggings"
+  },
+  {
+    "numeric_id": "305",
+    "display_name": "Chainmail Boots",
+    "minecraft_id": "minecraft:chainmail_boots"
+  },
+  {
+    "numeric_id": "306",
+    "display_name": "Iron Helmet",
+    "minecraft_id": "minecraft:iron_helmet"
+  },
+  {
+    "numeric_id": "307",
+    "display_name": "Iron Chestplate",
+    "minecraft_id": "minecraft:iron_chestplate"
+  },
+  {
+    "numeric_id": "308",
+    "display_name": "Iron Leggings",
+    "minecraft_id": "minecraft:iron_leggings"
+  },
+  {
+    "numeric_id": "309",
+    "display_name": "Iron Boots",
+    "minecraft_id": "minecraft:iron_boots"
+  },
+  {
+    "numeric_id": "310",
+    "display_name": "Diamond Helmet",
+    "minecraft_id": "minecraft:diamond_helmet"
+  },
+  {
+    "numeric_id": "311",
+    "display_name": "Diamond Chestplate",
+    "minecraft_id": "minecraft:diamond_chestplate"
+  },
+  {
+    "numeric_id": "312",
+    "display_name": "Diamond Leggings",
+    "minecraft_id": "minecraft:diamond_leggings"
+  },
+  {
+    "numeric_id": "313",
+    "display_name": "Diamond Boots",
+    "minecraft_id": "minecraft:diamond_boots"
+  },
+  {
+    "numeric_id": "314",
+    "display_name": "Golden Helmet",
+    "minecraft_id": "minecraft:golden_helmet"
+  },
+  {
+    "numeric_id": "315",
+    "display_name": "Golden Chestplate",
+    "minecraft_id": "minecraft:golden_chestplate"
+  },
+  {
+    "numeric_id": "316",
+    "display_name": "Golden Leggings",
+    "minecraft_id": "minecraft:golden_leggings"
+  },
+  {
+    "numeric_id": "317",
+    "display_name": "Golden Boots",
+    "minecraft_id": "minecraft:golden_boots"
+  },
+  {
+    "numeric_id": "318",
+    "display_name": "Flint",
+    "minecraft_id": "minecraft:flint_and_steel"
+  },
+  {
+    "numeric_id": "319",
+    "display_name": "Raw Porkchop",
+    "minecraft_id": "minecraft:porkchop"
+  },
+  {
+    "numeric_id": "320",
+    "display_name": "Cooked Porkchop",
+    "minecraft_id": "minecraft:cooked_porkchop"
+  },
+  {
+    "numeric_id": "321",
+    "display_name": "Painting",
+    "minecraft_id": "minecraft:painting"
+  },
+  {
+    "numeric_id": "322",
+    "display_name": "Golden Apple",
+    "minecraft_id": "minecraft:golden_apple"
+  },
+  {
+    "numeric_id": "322:1",
+    "display_name": "Enchanted Golden Apple",
+    "minecraft_id": "minecraft:golden_apple"
+  },
+  {
+    "numeric_id": "323",
+    "display_name": "Sign",
+    "minecraft_id": "minecraft:sign"
+  },
+  {
+    "numeric_id": "324",
+    "display_name": "Wooden Door",
+    "minecraft_id": "minecraft:wooden_door"
+  },
+  {
+    "numeric_id": "325",
+    "display_name": "Bucket",
+    "minecraft_id": "minecraft:bucket"
+  },
+  {
+    "numeric_id": "326",
+    "display_name": "Water Bucket",
+    "minecraft_id": "minecraft:water_bucket"
+  },
+  {
+    "numeric_id": "327",
+    "display_name": "Lava Bucket",
+    "minecraft_id": "minecraft:lava_bucket"
+  },
+  {
+    "numeric_id": "328",
+    "display_name": "Minecart",
+    "minecraft_id": "minecraft:minecart"
+  },
+  {
+    "numeric_id": "329",
+    "display_name": "Saddle",
+    "minecraft_id": "minecraft:saddle"
+  },
+  {
+    "numeric_id": "330",
+    "display_name": "Iron Door",
+    "minecraft_id": "minecraft:iron_door"
+  },
+  {
+    "numeric_id": "331",
+    "display_name": "Redstone",
+    "minecraft_id": "minecraft:redstone"
+  },
+  {
+    "numeric_id": "332",
+    "display_name": "Snowball",
+    "minecraft_id": "minecraft:snowball"
+  },
+  {
+    "numeric_id": "333",
+    "display_name": "Boat",
+    "minecraft_id": "minecraft:boat"
+  },
+  {
+    "numeric_id": "334",
+    "display_name": "Leather",
+    "minecraft_id": "minecraft:leather"
+  },
+  {
+    "numeric_id": "335",
+    "display_name": "Milk Bucket",
+    "minecraft_id": "minecraft:milk_bucket"
+  },
+  {
+    "numeric_id": "336",
+    "display_name": "Brick",
+    "minecraft_id": "minecraft:brick"
+  },
+  {
+    "numeric_id": "337",
+    "display_name": "Clay",
+    "minecraft_id": "minecraft:clay_ball"
+  },
+  {
+    "numeric_id": "338",
+    "display_name": "Sugar Canes",
+    "minecraft_id": "minecraft:reeds"
+  },
+  {
+    "numeric_id": "339",
+    "display_name": "Paper",
+    "minecraft_id": "minecraft:paper"
+  },
+  {
+    "numeric_id": "340",
+    "display_name": "Book",
+    "minecraft_id": "minecraft:book"
+  },
+  {
+    "numeric_id": "341",
+    "display_name": "Slimeball",
+    "minecraft_id": "minecraft:slime_ball"
+  },
+  {
+    "numeric_id": "342",
+    "display_name": "Minecart with Chest",
+    "minecraft_id": "minecraft:chest_minecart"
+  },
+  {
+    "numeric_id": "343",
+    "display_name": "Minecart with Furnace",
+    "minecraft_id": "minecraft:furnace_minecart"
+  },
+  {
+    "numeric_id": "344",
+    "display_name": "Egg",
+    "minecraft_id": "minecraft:egg"
+  },
+  {
+    "numeric_id": "345",
+    "display_name": "Compass",
+    "minecraft_id": "minecraft:compass"
+  },
+  {
+    "numeric_id": "346",
+    "display_name": "Fishing Rod",
+    "minecraft_id": "minecraft:fishing_rod"
+  },
+  {
+    "numeric_id": "347",
+    "display_name": "Clock",
+    "minecraft_id": "minecraft:clock"
+  },
+  {
+    "numeric_id": "348",
+    "display_name": "Glowstone Dust",
+    "minecraft_id": "minecraft:glowstone_dust"
+  },
+  {
+    "numeric_id": "349",
+    "display_name": "Raw Fish",
+    "minecraft_id": "minecraft:fish"
+  },
+  {
+    "numeric_id": "349:1",
+    "display_name": "Raw Salmon",
+    "minecraft_id": "minecraft:fish"
+  },
+  {
+    "numeric_id": "349:2",
+    "display_name": "Clownfish",
+    "minecraft_id": "minecraft:fish"
+  },
+  {
+    "numeric_id": "349:3",
+    "display_name": "Pufferfish",
+    "minecraft_id": "minecraft:fish"
+  },
+  {
+    "numeric_id": "350",
+    "display_name": "Cooked Fish",
+    "minecraft_id": "minecraft:cooked_fish"
+  },
+  {
+    "numeric_id": "350:1",
+    "display_name": "Cooked Salmon",
+    "minecraft_id": "minecraft:cooked_fish"
+  },
+  {
+    "numeric_id": "351",
+    "display_name": "Ink Sack",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:1",
+    "display_name": "Rose Red",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:2",
+    "display_name": "Cactus Green",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:3",
+    "display_name": "Coco Beans",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:4",
+    "display_name": "Lapis Lazuli",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:5",
+    "display_name": "Purple Dye",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:6",
+    "display_name": "Cyan Dye",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:7",
+    "display_name": "Light Gray Dye",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:8",
+    "display_name": "Gray Dye",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:9",
+    "display_name": "Pink Dye",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:10",
+    "display_name": "Lime Dye",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:11",
+    "display_name": "Dandelion Yellow",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:12",
+    "display_name": "Light Blue Dye",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:13",
+    "display_name": "Magenta Dye",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:14",
+    "display_name": "Orange Dye",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "351:15",
+    "display_name": "Bone Meal",
+    "minecraft_id": "minecraft:dye"
+  },
+  {
+    "numeric_id": "352",
+    "display_name": "Bone",
+    "minecraft_id": "minecraft:bone"
+  },
+  {
+    "numeric_id": "353",
+    "display_name": "Sugar",
+    "minecraft_id": "minecraft:sugar"
+  },
+  {
+    "numeric_id": "354",
+    "display_name": "Cake",
+    "minecraft_id": "minecraft:cake"
+  },
+  {
+    "numeric_id": "355",
+    "display_name": "Bed",
+    "minecraft_id": "minecraft:bed"
+  },
+  {
+    "numeric_id": "356",
+    "display_name": "Redstone Repeater",
+    "minecraft_id": "minecraft:repeater"
+  },
+  {
+    "numeric_id": "357",
+    "display_name": "Cookie",
+    "minecraft_id": "minecraft:cookie"
+  },
+  {
+    "numeric_id": "358",
+    "display_name": "Map",
+    "minecraft_id": "minecraft:filled_map"
+  },
+  {
+    "numeric_id": "359",
+    "display_name": "Shears",
+    "minecraft_id": "minecraft:shears"
+  },
+  {
+    "numeric_id": "360",
+    "display_name": "Melon",
+    "minecraft_id": "minecraft:melon"
+  },
+  {
+    "numeric_id": "361",
+    "display_name": "Pumpkin Seeds",
+    "minecraft_id": "minecraft:pumpkin_seeds"
+  },
+  {
+    "numeric_id": "362",
+    "display_name": "Melon Seeds",
+    "minecraft_id": "minecraft:melon_seeds"
+  },
+  {
+    "numeric_id": "363",
+    "display_name": "Raw Beef",
+    "minecraft_id": "minecraft:beef"
+  },
+  {
+    "numeric_id": "364",
+    "display_name": "Steak",
+    "minecraft_id": "minecraft:cooked_beef"
+  },
+  {
+    "numeric_id": "365",
+    "display_name": "Raw Chicken",
+    "minecraft_id": "minecraft:chicken"
+  },
+  {
+    "numeric_id": "366",
+    "display_name": "Cooked Chicken",
+    "minecraft_id": "minecraft:cooked_chicken"
+  },
+  {
+    "numeric_id": "367",
+    "display_name": "Rotten Flesh",
+    "minecraft_id": "minecraft:rotten_flesh"
+  },
+  {
+    "numeric_id": "368",
+    "display_name": "Ender Pearl",
+    "minecraft_id": "minecraft:ender_pearl"
+  },
+  {
+    "numeric_id": "369",
+    "display_name": "Blaze Rod",
+    "minecraft_id": "minecraft:blaze_rod"
+  },
+  {
+    "numeric_id": "370",
+    "display_name": "Ghast Tear",
+    "minecraft_id": "minecraft:ghast_tear"
+  },
+  {
+    "numeric_id": "371",
+    "display_name": "Gold Nugget",
+    "minecraft_id": "minecraft:gold_nugget"
+  },
+  {
+    "numeric_id": "372",
+    "display_name": "Nether Wart",
+    "minecraft_id": "minecraft:nether_wart"
+  },
+  {
+    "numeric_id": "373",
+    "display_name": "Potion",
+    "minecraft_id": "minecraft:potion"
+  },
+  {
+    "numeric_id": "374",
+    "display_name": "Glass Bottle",
+    "minecraft_id": "minecraft:glass_bottle"
+  },
+  {
+    "numeric_id": "375",
+    "display_name": "Spider Eye",
+    "minecraft_id": "minecraft:spider_eye"
+  },
+  {
+    "numeric_id": "376",
+    "display_name": "Fermented Spider Eye",
+    "minecraft_id": "minecraft:fermented_spider_eye"
+  },
+  {
+    "numeric_id": "377",
+    "display_name": "Blaze Powder",
+    "minecraft_id": "minecraft:blaze_powder"
+  },
+  {
+    "numeric_id": "378",
+    "display_name": "Magma Cream",
+    "minecraft_id": "minecraft:magma_cream"
+  },
+  {
+    "numeric_id": "379",
+    "display_name": "Brewing Stand",
+    "minecraft_id": "minecraft:brewing_stand"
+  },
+  {
+    "numeric_id": "380",
+    "display_name": "Cauldron",
+    "minecraft_id": "minecraft:cauldron"
+  },
+  {
+    "numeric_id": "381",
+    "display_name": "Eye of Ender",
+    "minecraft_id": "minecraft:ender_eye"
+  },
+  {
+    "numeric_id": "382",
+    "display_name": "Glistering Melon",
+    "minecraft_id": "minecraft:speckled_melon"
+  },
+  {
+    "numeric_id": "383:50",
+    "display_name": "Spawn Creeper",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:51",
+    "display_name": "Spawn Skeleton",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:52",
+    "display_name": "Spawn Spider",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:54",
+    "display_name": "Spawn Zombie",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:55",
+    "display_name": "Spawn Slime",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:56",
+    "display_name": "Spawn Ghast",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:57",
+    "display_name": "Spawn Pigman",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:58",
+    "display_name": "Spawn Enderman",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:59",
+    "display_name": "Spawn Cave Spider",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:60",
+    "display_name": "Spawn Silverfish",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:61",
+    "display_name": "Spawn Blaze",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:62",
+    "display_name": "Spawn Magma Cube",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:65",
+    "display_name": "Spawn Bat",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:66",
+    "display_name": "Spawn Witch",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:67",
+    "display_name": "Spawn Endermite",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:68",
+    "display_name": "Spawn Guardian",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:90",
+    "display_name": "Spawn Pig",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:91",
+    "display_name": "Spawn Sheep",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:92",
+    "display_name": "Spawn Cow",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:93",
+    "display_name": "Spawn Chicken",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:94",
+    "display_name": "Spawn Squid",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:95",
+    "display_name": "Spawn Wolf",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:96",
+    "display_name": "Spawn Mooshroom",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:98",
+    "display_name": "Spawn Ocelot",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:100",
+    "display_name": "Spawn Horse",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:101",
+    "display_name": "Spawn Rabbit",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "383:120",
+    "display_name": "Spawn Villager",
+    "minecraft_id": "minecraft:spawn_egg"
+  },
+  {
+    "numeric_id": "384",
+    "display_name": "Bottle o’ Enchanting",
+    "minecraft_id": "minecraft:experience_bottle"
+  },
+  {
+    "numeric_id": "385",
+    "display_name": "Fire Charge",
+    "minecraft_id": "minecraft:fire_charge"
+  },
+  {
+    "numeric_id": "386",
+    "display_name": "Book and Quill",
+    "minecraft_id": "minecraft:writable_book"
+  },
+  {
+    "numeric_id": "387",
+    "display_name": "Written Book",
+    "minecraft_id": "minecraft:written_book"
+  },
+  {
+    "numeric_id": "388",
+    "display_name": "Emerald",
+    "minecraft_id": "minecraft:emerald"
+  },
+  {
+    "numeric_id": "389",
+    "display_name": "Item Frame",
+    "minecraft_id": "minecraft:item_frame"
+  },
+  {
+    "numeric_id": "390",
+    "display_name": "Flower Pot",
+    "minecraft_id": "minecraft:flower_pot"
+  },
+  {
+    "numeric_id": "391",
+    "display_name": "Carrot",
+    "minecraft_id": "minecraft:carrot"
+  },
+  {
+    "numeric_id": "392",
+    "display_name": "Potato",
+    "minecraft_id": "minecraft:potato"
+  },
+  {
+    "numeric_id": "393",
+    "display_name": "Baked Potato",
+    "minecraft_id": "minecraft:baked_potato"
+  },
+  {
+    "numeric_id": "394",
+    "display_name": "Poisonous Potato",
+    "minecraft_id": "minecraft:poisonous_potato"
+  },
+  {
+    "numeric_id": "395",
+    "display_name": "Empty Map",
+    "minecraft_id": "minecraft:map"
+  },
+  {
+    "numeric_id": "396",
+    "display_name": "Golden Carrot",
+    "minecraft_id": "minecraft:golden_carrot"
+  },
+  {
+    "numeric_id": "397",
+    "display_name": "Mob Head (Skeleton)",
+    "minecraft_id": "minecraft:skull"
+  },
+  {
+    "numeric_id": "397:1",
+    "display_name": "Mob Head (Wither Skeleton)",
+    "minecraft_id": "minecraft:skull"
+  },
+  {
+    "numeric_id": "397:2",
+    "display_name": "Mob Head (Zombie)",
+    "minecraft_id": "minecraft:skull"
+  },
+  {
+    "numeric_id": "397:3",
+    "display_name": "Mob Head (Human)",
+    "minecraft_id": "minecraft:skull"
+  },
+  {
+    "numeric_id": "397:4",
+    "display_name": "Mob Head (Creeper)",
+    "minecraft_id": "minecraft:skull"
+  },
+  {
+    "numeric_id": "398",
+    "display_name": "Carrot on a Stick",
+    "minecraft_id": "minecraft:carrot_on_a_stick"
+  },
+  {
+    "numeric_id": "399",
+    "display_name": "Nether Star",
+    "minecraft_id": "minecraft:nether_star"
+  },
+  {
+    "numeric_id": "400",
+    "display_name": "Pumpkin Pie",
+    "minecraft_id": "minecraft:pumpkin_pie"
+  },
+  {
+    "numeric_id": "401",
+    "display_name": "Firework Rocket",
+    "minecraft_id": "minecraft:fireworks"
+  },
+  {
+    "numeric_id": "402",
+    "display_name": "Firework Star",
+    "minecraft_id": "minecraft:firework_charge"
+  },
+  {
+    "numeric_id": "403",
+    "display_name": "Enchanted Book",
+    "minecraft_id": "minecraft:enchanted_book"
+  },
+  {
+    "numeric_id": "404",
+    "display_name": "Redstone Comparator",
+    "minecraft_id": "minecraft:comparator"
+  },
+  {
+    "numeric_id": "405",
+    "display_name": "Nether Brick",
+    "minecraft_id": "minecraft:netherbrick"
+  },
+  {
+    "numeric_id": "406",
+    "display_name": "Nether Quartz",
+    "minecraft_id": "minecraft:quartz"
+  },
+  {
+    "numeric_id": "407",
+    "display_name": "Minecart with TNT",
+    "minecraft_id": "minecraft:tnt_minecart"
+  },
+  {
+    "numeric_id": "408",
+    "display_name": "Minecart with Hopper",
+    "minecraft_id": "minecraft:hopper_minecart"
+  },
+  {
+    "numeric_id": "409",
+    "display_name": "Prismarine Shard",
+    "minecraft_id": "minecraft:prismarine_shard"
+  },
+  {
+    "numeric_id": "410",
+    "display_name": "Prismarine Crystals",
+    "minecraft_id": "minecraft:prismarine_crystals"
+  },
+  {
+    "numeric_id": "411",
+    "display_name": "Raw Rabbit",
+    "minecraft_id": "minecraft:rabbit"
+  },
+  {
+    "numeric_id": "412",
+    "display_name": "Cooked Rabbit",
+    "minecraft_id": "minecraft:cooked_rabbit"
+  },
+  {
+    "numeric_id": "413",
+    "display_name": "Rabbit Stew",
+    "minecraft_id": "minecraft:rabbit_stew"
+  },
+  {
+    "numeric_id": "414",
+    "display_name": "Rabbit’s Foot",
+    "minecraft_id": "minecraft:rabbit_foot"
+  },
+  {
+    "numeric_id": "415",
+    "display_name": "Rabbit Hide",
+    "minecraft_id": "minecraft:rabbit_hide"
+  },
+  {
+    "numeric_id": "416",
+    "display_name": "Armor Stand",
+    "minecraft_id": "minecraft:armor_stand"
+  },
+  {
+    "numeric_id": "417",
+    "display_name": "Iron Horse Armor",
+    "minecraft_id": "minecraft:iron_horse_armor"
+  },
+  {
+    "numeric_id": "418",
+    "display_name": "Golden Horse Armor",
+    "minecraft_id": "minecraft:golden_horse_armor"
+  },
+  {
+    "numeric_id": "419",
+    "display_name": "Diamond Horse Armor",
+    "minecraft_id": "minecraft:diamond_horse_armor"
+  },
+  {
+    "numeric_id": "420",
+    "display_name": "Lead",
+    "minecraft_id": "minecraft:lead"
+  },
+  {
+    "numeric_id": "421",
+    "display_name": "Name Tag",
+    "minecraft_id": "minecraft:name_tag"
+  },
+  {
+    "numeric_id": "422",
+    "display_name": "Minecart with Command Block",
+    "minecraft_id": "minecraft:command_block_minecart"
+  },
+  {
+    "numeric_id": "423",
+    "display_name": "Raw Mutton",
+    "minecraft_id": "minecraft:mutton"
+  },
+  {
+    "numeric_id": "424",
+    "display_name": "Cooked Mutton",
+    "minecraft_id": "minecraft:cooked_mutton"
+  },
+  {
+    "numeric_id": "425",
+    "display_name": "Banner",
+    "minecraft_id": "minecraft:banner"
+  },
+  {
+    "numeric_id": "427",
+    "display_name": "Spruce Door",
+    "minecraft_id": "minecraft:spruce_door"
+  },
+  {
+    "numeric_id": "428",
+    "display_name": "Birch Door",
+    "minecraft_id": "minecraft:birch_door"
+  },
+  {
+    "numeric_id": "429",
+    "display_name": "Jungle Door",
+    "minecraft_id": "minecraft:jungle_door"
+  },
+  {
+    "numeric_id": "430",
+    "display_name": "Acacia Door",
+    "minecraft_id": "minecraft:acacia_door"
+  },
+  {
+    "numeric_id": "431",
+    "display_name": "Dark Oak Door",
+    "minecraft_id": "minecraft:dark_oak_door"
+  },
+  {
+    "numeric_id": "2256",
+    "display_name": "13 Disc",
+    "minecraft_id": "minecraft:record_13"
+  },
+  {
+    "numeric_id": "2257",
+    "display_name": "Cat Disc",
+    "minecraft_id": "minecraft:record_cat"
+  },
+  {
+    "numeric_id": "2258",
+    "display_name": "Blocks Disc",
+    "minecraft_id": "minecraft:record_blocks"
+  },
+  {
+    "numeric_id": "2259",
+    "display_name": "Chirp Disc",
+    "minecraft_id": "minecraft:record_chirp"
+  },
+  {
+    "numeric_id": "2260",
+    "display_name": "Far Disc",
+    "minecraft_id": "minecraft:record_far"
+  },
+  {
+    "numeric_id": "2261",
+    "display_name": "Mall Disc",
+    "minecraft_id": "minecraft:record_mall"
+  },
+  {
+    "numeric_id": "2262",
+    "display_name": "Mellohi Disc",
+    "minecraft_id": "minecraft:record_mellohi"
+  },
+  {
+    "numeric_id": "2263",
+    "display_name": "Stal Disc",
+    "minecraft_id": "minecraft:record_stal"
+  },
+  {
+    "numeric_id": "2264",
+    "display_name": "Strad Disc",
+    "minecraft_id": "minecraft:record_strad"
+  },
+  {
+    "numeric_id": "2265",
+    "display_name": "Ward Disc",
+    "minecraft_id": "minecraft:record_ward"
+  },
+  {
+    "numeric_id": "2266",
+    "display_name": "11 Disc",
+    "minecraft_id": "minecraft:record_11"
+  },
+  {
+    "numeric_id": "2267",
+    "display_name": "Wait Disc",
+    "minecraft_id": "minecraft:record_wait"
+  }
+]

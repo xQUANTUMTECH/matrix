@@ -1,0 +1,6 @@
+{
+    "name": "Redstone",
+    "model": "openrouter/x-ai/grok-3-mini",
+    "embedding": "openrouter/openai/text-embedding-3-small",
+    "cooldown": 7000
+}
